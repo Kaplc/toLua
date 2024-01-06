@@ -1,0 +1,9 @@
+/.idea
+/.vscode
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
+/Logs
+/obj
+/Packages
+/Temp
+/toLua.sln
